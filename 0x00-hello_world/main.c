@@ -1,10 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - Is my main function
- * Return: 0 means success
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-printf("My first c code");
-return (0);
+    return (0);
 }
