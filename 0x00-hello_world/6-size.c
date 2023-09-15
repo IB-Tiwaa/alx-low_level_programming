@@ -15,7 +15,7 @@ int main(void)
 	printf("Size of a char: %d byte(s)\n", Character);
 	printf("Size of a int: %d byte(s)\n", Integer);
 	printf("Size of a char: %d byte(s)\n", LInteger);
-	printf("Size of a char: %d byte(s)\n", lonf_long_int );
+	printf("Size of a char: %d byte(s)\n", long_long_int );
 	printf("Size of a char: %d byte(s)\n", Float);
 	return (0);
 }
